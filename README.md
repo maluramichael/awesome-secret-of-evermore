@@ -45,6 +45,7 @@
 - [GameFAQs](https://gamefaqs.gamespot.com/snes/588645-secret-of-evermore)
 - [RPG-Oase](http://www.rpg-oase.de/php/index.php?direct+15+SoE/Seiten/einfuehrung.php)
 - [Datacrystal](https://datacrystal.romhacking.net/wiki/Secret_of_Evermore)
+- [Retro Achievments](https://retroachievements.org/game/821)
 
 ### Blog Posts
 
