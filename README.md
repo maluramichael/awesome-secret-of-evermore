@@ -41,6 +41,7 @@
 - [SoE Shrine](http://shrines.rpgclassics.com/snes/soe/) - your complete source for Secret of Evermore information
 - [Retropixel](https://rpg.retropixel.net/evermore/story.html)
 - [GameFAQs](https://gamefaqs.gamespot.com/snes/588645-secret-of-evermore)
+- [RPG-Oase](http://www.rpg-oase.de/php/index.php?direct+15+SoE/Seiten/einfuehrung.php)
 
 ### Blog Posts
 
