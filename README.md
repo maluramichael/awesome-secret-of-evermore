@@ -21,6 +21,7 @@
 
 ### Rom Hacks
 
+- [Evermizer](https://www.evermizer.com/) - The Secret of Evermore Randomizer
 - [Secret of Evermore 25th Anniversary Balance Patch](https://www.romhacking.net/hacks/5437/) - by Master Knight DH
 - [Debug Menu](https://www.romhacking.net/hacks/4638/) - by XaserLE
 - [Secret of Evermore - A/B Button Swap](https://www.romhacking.net/hacks/4580/) - by mteam
