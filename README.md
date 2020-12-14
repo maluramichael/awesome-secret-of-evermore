@@ -7,6 +7,8 @@
     - [Rom Hacks](#rom-hacks)
 - [Resources](#resources)
     - [Documents](#documents)
+    - [Websites](#websites)
+    - [Blog Posts](#blog-posts)
     - [Interviews](#interviews)
 
 ## Projects
@@ -33,6 +35,15 @@
 
 - [SRAM Guide](https://www.romhacking.net/documents/300/) - Guide by John David Ratliff
 
+### Websites
+
+- [SoE Shrine](http://shrines.rpgclassics.com/snes/soe/) - your complete source for Secret of Evermore information
+- [Retropixel](https://rpg.retropixel.net/evermore/story.html)
+- [GameFAQs](https://gamefaqs.gamespot.com/snes/588645-secret-of-evermore)
+
+### Blog Posts
+
+- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew
 ### Interviews
 
 - [Nintendolife - Brian Fehdrau](https://www.nintendolife.com/news/2009/04/interview_with_brian_fehdrau_secret_of_evermore)
