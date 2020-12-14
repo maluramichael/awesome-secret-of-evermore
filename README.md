@@ -26,6 +26,7 @@
 - [Secret of Evermore - A/B Button Swap](https://www.romhacking.net/hacks/4580/) - by mteam
 - [Secret of Evermore Gameplay Balance Patch](https://www.romhacking.net/hacks/602/) - by Ninakoru
 - [SoE - 2 Player Edition](https://www.romhacking.net/hacks/24/) - by FuSoYa’s Niche
+- [assassin17 Collection](http://assassin17.brinkster.net/soe_patches.htm) - by assassin17
 
 ## Resources
 
