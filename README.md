@@ -10,6 +10,7 @@
     - [Websites](#websites)
     - [Blog Posts](#blog-posts)
     - [Interviews](#interviews)
+    - [Other](#other)
 
 ## Projects
 
@@ -44,6 +45,11 @@
 ### Blog Posts
 
 - [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew
+
 ### Interviews
 
 - [Nintendolife - Brian Fehdrau](https://www.nintendolife.com/news/2009/04/interview_with_brian_fehdrau_secret_of_evermore)
+
+### Other
+
+- [Secret of Evermore Commercial](https://www.youtube.com/watch?v=dEu8wDAQuDk)
