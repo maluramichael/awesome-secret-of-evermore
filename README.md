@@ -53,6 +53,7 @@
 ### Interviews
 
 - [Nintendolife - Brian Fehdrau](https://www.nintendolife.com/news/2009/04/interview_with_brian_fehdrau_secret_of_evermore)
+- [Man spricht S.I.G.I.L.](https://web.archive.org/web/20120129051904/http://www.classic-zone.de/artikel.php?id=2)
 
 ### Other
 
