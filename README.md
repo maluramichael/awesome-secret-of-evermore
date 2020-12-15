@@ -5,12 +5,11 @@
 - [Projects](#projects)
   - [Dev Tools](#dev-tools)
   - [Rom Hacks](#rom-hacks)
-- [Resources](#resources)
-  - [Documents](#documents)
-  - [Websites](#websites)
-  - [Blog Posts](#blog-posts)
-  - [Interviews](#interviews)
-  - [Other](#other)
+- [Documents](#documents)
+- [Websites](#websites)
+- [Blog Posts](#blog-posts)
+- [Interviews](#interviews)
+- [Other](#other)
 
 ## Projects
 
@@ -18,7 +17,8 @@
 
 - [SoETilesViewer](https://github.com/black-sliver/SoETilesViewer) - Tool to view, export and import assets of Secret of Evermore
 - [SoE-SramComparer](http://compare.xeth.de/) - Allows to compare (unknown) buffers and manipulate offset values in Secret of Evermore's SRAM file.
-- [SOE-SRAM-Editor](https://github.com/HunterStanton/SOE-SRAM-Editor)
+- [SOE-SRAM-Editor](https://github.com/HunterStanton/SOE-SRAM-Editor) - by HunterStanton
+- [soesrame](http://games.technoplaza.net/soesrame/)
 
 ### Rom Hacks
 
@@ -30,33 +30,32 @@
 - [SoE - 2 Player Edition](https://www.romhacking.net/hacks/24/) - by FuSoYa’s Niche
 - [assassin17 Collection](http://assassin17.brinkster.net/soe_patches.htm) - by assassin17
 
-## Resources
+## Documents
+
+- [SRAM Guide](https://www.romhacking.net/documents/300/) - by John David Ratliff
+- [SRAM Format](https://wiki.superfamicom.org/secret-of-evermore-sram-format) - by superfamicom.org
+
+## Websites
 
 - [Fandom Wiki](https://secretofevermore.fandom.com/wiki/Secret_of_Evermore_Wiki)
 - [TCRF](https://tcrf.net/Secret_of_Evermore)
-
-### Documents
-
-- [SRAM Guide](https://www.romhacking.net/documents/300/) - Guide by John David Ratliff
-
-### Websites
-
 - [SoE Shrine](http://shrines.rpgclassics.com/snes/soe/) - your complete source for Secret of Evermore information
 - [Retropixel](https://rpg.retropixel.net/evermore/story.html)
 - [GameFAQs](https://gamefaqs.gamespot.com/snes/588645-secret-of-evermore)
 - [RPG-Oase](http://www.rpg-oase.de/php/index.php?direct+15+SoE/Seiten/einfuehrung.php)
 - [Datacrystal](https://datacrystal.romhacking.net/wiki/Secret_of_Evermore)
 - [Retro Achievments](https://retroachievements.org/game/821)
+- [Superfamicom](https://superfamicom.org/info/secret-of-evermore)
 
-### Blog Posts
+## Blog Posts
 
 - [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew
 
-### Interviews
+## Interviews
 
 - [Nintendolife - Brian Fehdrau](https://www.nintendolife.com/news/2009/04/interview_with_brian_fehdrau_secret_of_evermore)
 - [Man spricht S.I.G.I.L.](https://web.archive.org/web/20120129051904/http://www.classic-zone.de/artikel.php?id=2)
 
-### Other
+## Other
 
 - [Secret of Evermore Commercial](https://www.youtube.com/watch?v=dEu8wDAQuDk)
