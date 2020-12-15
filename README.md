@@ -3,14 +3,14 @@
 # Contents
 
 - [Projects](#projects)
-    - [Dev Tools](#dev-tools)
-    - [Rom Hacks](#rom-hacks)
+  - [Dev Tools](#dev-tools)
+  - [Rom Hacks](#rom-hacks)
 - [Resources](#resources)
-    - [Documents](#documents)
-    - [Websites](#websites)
-    - [Blog Posts](#blog-posts)
-    - [Interviews](#interviews)
-    - [Other](#other)
+  - [Documents](#documents)
+  - [Websites](#websites)
+  - [Blog Posts](#blog-posts)
+  - [Interviews](#interviews)
+  - [Other](#other)
 
 ## Projects
 
@@ -18,6 +18,7 @@
 
 - [SoETilesViewer](https://github.com/black-sliver/SoETilesViewer) - Tool to view, export and import assets of Secret of Evermore
 - [SoE-SramComparer](http://compare.xeth.de/) - Allows to compare (unknown) buffers and manipulate offset values in Secret of Evermore's SRAM file.
+- [SOE-SRAM-Editor](https://github.com/HunterStanton/SOE-SRAM-Editor)
 
 ### Rom Hacks
 
