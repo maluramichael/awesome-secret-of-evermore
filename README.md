@@ -16,7 +16,7 @@
 ### Dev Tools
 
 - [SoETilesViewer](https://github.com/black-sliver/SoETilesViewer) - Tool to view, export and import assets of Secret of Evermore
-- [SoE-SramComparer](http://comparing.xeth.de/) - Allows to compare (unknown) buffers and manipulate offset values in Secret of Evermore's SRAM file.
+- [S-RAM Comparer](http://www.romhacking.net/utilities/1586/) - Allows to compare (unknown) buffers and manipulate offset values in Secret of Evermore's SRAM file.
 - [SOE-SRAM-Editor](https://github.com/HunterStanton/SOE-SRAM-Editor) - by HunterStanton
 - [soesrame](http://games.technoplaza.net/soesrame/)
 
@@ -32,6 +32,7 @@
 
 ## Documents
 
+- [RAMsetta Stone (W/S-RAM Address Conversion)](https://www.romhacking.net/documents/831) v1.0 by Phonymike
 - [SRAM Guide 1.1](http://games.technoplaza.net/soesrame/sram-doc.txt) v1.1 by John David Ratliff
 - [SRAM Guide 1.0](https://www.romhacking.net/documents/300/) - v1.0 by John David Ratliff (the website says 2.0 but the document itself says 1.0)
 - [SRAM Format](https://wiki.superfamicom.org/secret-of-evermore-sram-format) - by superfamicom.org
@@ -47,6 +48,7 @@
 - [Datacrystal](https://datacrystal.romhacking.net/wiki/Secret_of_Evermore)
 - [Retro Achievments](https://retroachievements.org/game/821)
 - [Superfamicom](https://superfamicom.org/info/secret-of-evermore)
+- [Evermore Format Exploration Project](https://evermore.azurewebsites.net/) 
 
 ## Blog Posts
 
