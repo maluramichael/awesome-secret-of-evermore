@@ -62,3 +62,7 @@
 ## Other
 
 - [Secret of Evermore Commercial](https://www.youtube.com/watch?v=dEu8wDAQuDk)
+
+## Fan Projects
+
+- [Mystery Of Evermore](https://www.mysteryofevermore.com/)
