@@ -10,6 +10,7 @@
 - [Blog Posts](#blog-posts)
 - [Interviews](#interviews)
 - [Other](#other)
+- [ROMS](#roms)
 
 ## Projects
 
@@ -48,7 +49,7 @@
 - [Datacrystal](https://datacrystal.romhacking.net/wiki/Secret_of_Evermore)
 - [Retro Achievments](https://retroachievements.org/game/821)
 - [Superfamicom](https://superfamicom.org/info/secret-of-evermore)
-- [Evermore Format Exploration Project](https://evermore.azurewebsites.net/) 
+- [Evermore Format Exploration Project](https://evermore.azurewebsites.net/)
 
 ## Blog Posts
 
@@ -66,3 +67,32 @@
 ## Fan Projects
 
 - [Mystery Of Evermore](https://www.mysteryofevermore.com/)
+
+## ROMS
+
+### Europe
+
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | E168D085                                                         |
+| MD5       | 1C02824BDD165BACB52597551C3C87C5                                 |
+| SHA-1     | AE17166919FDFDF26CC5771F83CFD19EAF71806C                         |
+| SHA-256   | E541C2E87D6A196F536DEF78D14A74379C4904C613E5FF6314DC147096C41222 |
+
+### Germany
+
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | 27F60E77                                                         |
+| MD5       | 0D131FF1D7896D6994B03FE2751D820B                                 |
+| SHA-1     | 5E5C2082526690D05F962C3FFBD7E080C681BFA4                         |
+| SHA-256   | C341668847170D36FA5CFB720568B0B1ECBB24FC426A821F665F1D3853A46A6D |
+
+### USA
+
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | A5C0045E                                                         |
+| MD5       | 6E9C94511D04FAC6E0A1E582C170BE3A                                 |
+| SHA-1     | 79E7738630FFF5699217EF58ECC421BC8FCBCD89                         |
+| SHA-256   | 17C864A76D498FEB6479EEE8E7D6807B951C66225033228622BB66754BAAB1DB |
