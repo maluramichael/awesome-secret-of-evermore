@@ -20,6 +20,7 @@
 - [S-RAM Comparer](http://www.romhacking.net/utilities/1586/) - Allows to compare (unknown) buffers and manipulate offset values in Secret of Evermore's SRAM file.
 - [SOE-SRAM-Editor](https://github.com/HunterStanton/SOE-SRAM-Editor) - by HunterStanton
 - [soesrame](http://games.technoplaza.net/soesrame/)
+- [SecretOfEverhack](https://github.com/Gemini-Loboto3/SecretOfEverhack)
 
 ### Rom Hacks
 
