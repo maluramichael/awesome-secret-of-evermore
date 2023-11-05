@@ -78,7 +78,7 @@
 
 ## ROMS
 
-### English PAL (Secret of Evermore (U) No header.smc) (3145728 bytes)
+### English PAL (Secret of Evermore (E) [!].smc) (3145728 bytes)
 
 * [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2258)
 
@@ -89,7 +89,7 @@
 | SHA-1     | AE17166919FDFDF26CC5771F83CFD19EAF71806C                         |
 | SHA-256   | E541C2E87D6A196F536DEF78D14A74379C4904C613E5FF6314DC147096C41222 |
 
-### Germany (Secret of Evermore (G) No header.smc) (3145728 bytes)
+### Germany (Secret of Evermore (G).smc) (3145728 bytes)
 
 * [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2260)
 
@@ -100,7 +100,7 @@
 | SHA-1     | 5E5C2082526690D05F962C3FFBD7E080C681BFA4                         |
 | SHA-256   | C341668847170D36FA5CFB720568B0B1ECBB24FC426A821F665F1D3853A46A6D |
 
-### USA (Secret of Evermore (USA).sfc) (3145728 bytes)
+### USA (Secret of Evermore (U) [!].smc) (3145728 bytes)
 
 * [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2262)
 
