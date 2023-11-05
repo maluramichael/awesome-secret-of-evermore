@@ -2,15 +2,21 @@
 
 # Contents
 
-- [Projects](#projects)
-  - [Dev Tools](#dev-tools)
-  - [Rom Hacks](#rom-hacks)
-- [Documents](#documents)
-- [Websites](#websites)
-- [Blog Posts](#blog-posts)
-- [Interviews](#interviews)
-- [Other](#other)
-- [ROMS](#roms)
+- [awesome-secret-of-evermore](#awesome-secret-of-evermore)
+- [Contents](#contents)
+  - [Projects](#projects)
+    - [Dev Tools](#dev-tools)
+    - [Rom Hacks](#rom-hacks)
+  - [Documents](#documents)
+  - [Websites](#websites)
+  - [Blog Posts](#blog-posts)
+  - [Interviews](#interviews)
+  - [Other](#other)
+  - [Fan Projects](#fan-projects)
+  - [ROMS](#roms)
+    - [Europe](#europe)
+    - [Germany](#germany)
+    - [USA](#usa)
 
 ## Projects
 
@@ -24,6 +30,7 @@
 
 ### Rom Hacks
 
+- [Backup](/hacks/Hacks.md) - Backup of all Mods and Hacks from Romhacking.net related to Secret of Evermore
 - [Evermizer](https://www.evermizer.com/) - The Secret of Evermore Randomizer
 - [Secret of Evermore 25th Anniversary Balance Patch](https://www.romhacking.net/hacks/5437/) - by Master Knight DH
 - [Debug Menu](https://www.romhacking.net/hacks/4638/) - by XaserLE
