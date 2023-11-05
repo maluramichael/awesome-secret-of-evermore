@@ -61,7 +61,7 @@
 
 ## Blog Posts
 
-- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew (might be false)
+- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew (Brian himself said this false)
 
 ## Interviews
 
