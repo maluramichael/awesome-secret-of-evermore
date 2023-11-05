@@ -48,7 +48,7 @@
 
 ## Websites
 
-- [Fandom Wiki](https://secretofevermore.fandom.com/wiki/Secret_of_Evermore_Wiki)
+- [Fandom Wiki](https://secretofevermore.fandom.com/wiki/Secret_of_Evermore_Wiki) - your complete source for Secret of Evermore information
 - [TCRF](https://tcrf.net/Secret_of_Evermore)
 - [SoE Shrine](http://shrines.rpgclassics.com/snes/soe/) - your complete source for Secret of Evermore information
 - [Retropixel](https://rpg.retropixel.net/evermore/story.html)
@@ -61,7 +61,7 @@
 
 ## Blog Posts
 
-- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew (Brian himself said this false)
+- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew (fiction)
 
 ## Interviews
 
@@ -71,6 +71,7 @@
 ## Other
 
 - [Secret of Evermore Commercial](https://www.youtube.com/watch?v=dEu8wDAQuDk)
+- [Complete Soundtrack](https://www.youtube.com/watch?v=qaSpvpkjpTk&list=PL863A2CB725623D2D)
 
 ## Fan Projects
 
