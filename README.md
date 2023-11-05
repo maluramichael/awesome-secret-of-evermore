@@ -61,7 +61,7 @@
 
 ## Blog Posts
 
-- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew
+- [The original story behind Secret of Evermore](http://rainwoodworks.blogspot.com/2010/09/secret-of-evermore-was-one-of-my.html) - by Andrew (might be false)
 
 ## Interviews
 
@@ -74,11 +74,13 @@
 
 ## Fan Projects
 
-- [Mystery Of Evermore](https://www.mysteryofevermore.com/)
+- [Mystery of Evermore](https://www.mysteryofevermore.com/)
 
 ## ROMS
 
-### Europe
+### English PAL (Secret of Evermore (U) No header.smc) (3145728 bytes)
+
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2258)
 
 | Algorithm |                                                                  |
 | --------- | ---------------------------------------------------------------- |
@@ -87,7 +89,9 @@
 | SHA-1     | AE17166919FDFDF26CC5771F83CFD19EAF71806C                         |
 | SHA-256   | E541C2E87D6A196F536DEF78D14A74379C4904C613E5FF6314DC147096C41222 |
 
-### Germany
+### Germany (Secret of Evermore (G) No header.smc) (3145728 bytes)
+
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2260)
 
 | Algorithm |                                                                  |
 | --------- | ---------------------------------------------------------------- |
@@ -96,7 +100,9 @@
 | SHA-1     | 5E5C2082526690D05F962C3FFBD7E080C681BFA4                         |
 | SHA-256   | C341668847170D36FA5CFB720568B0B1ECBB24FC426A821F665F1D3853A46A6D |
 
-### USA
+### USA (Secret of Evermore (USA).sfc) (3145728 bytes)
+
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2262)
 
 | Algorithm |                                                                  |
 | --------- | ---------------------------------------------------------------- |
