@@ -1,5 +1,10 @@
 # awesome-secret-of-evermore
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=awesome-secret-of-evermore)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=awesome-secret-of-evermore)
+<!-- links:end -->
+
 # Contents
 
 - [awesome-secret-of-evermore](#awesome-secret-of-evermore)
