@@ -195,13 +195,14 @@
 
 ### France (Secret of Evermore (F).smc) (3145728 bytes)
 
-* Source: [No-Intro DAT (libretro-database)](https://github.com/libretro/libretro-database/blob/master/metadat/no-intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.dat)
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2259)
 
-| Algorithm |                                          |
-| --------- | ---------------------------------------- |
-| CRC       | 7425BB91                                 |
-| MD5       | 4C33B3B733B2CBD63295446B14654652         |
-| SHA-1     | 8A430C9D6A3DCEF974252FE8D946A0D619BB1A61 |
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | 7425BB91                                                         |
+| MD5       | 4C33B3B733B2CBD63295446B14654652                                 |
+| SHA-1     | 8A430C9D6A3DCEF974252FE8D946A0D619BB1A61                         |
+| SHA-256   | A1F7D534C774EDB45586803B5823431CC749B339EEE968B8E3F8113D795FD9C7 |
 
 ### Germany (Secret of Evermore (G).smc) (3145728 bytes)
 
@@ -216,23 +217,25 @@
 
 ### Spain Rev 1 (Secret of Evermore (S) (Rev 1).smc) (3145728 bytes)
 
-* Source: [No-Intro DAT (libretro-database)](https://github.com/libretro/libretro-database/blob/master/metadat/no-intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.dat)
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=2261)
 
-| Algorithm |                                          |
-| --------- | ---------------------------------------- |
-| CRC       | 7BFE934F                                 |
-| MD5       | F6516A3B18C262EC00CD4348921C3897         |
-| SHA-1     | 4363CE4B19E76261F9325AC9A0CCE27D97490DF2 |
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | 7BFE934F                                                         |
+| MD5       | F6516A3B18C262EC00CD4348921C3897                                 |
+| SHA-1     | 4363CE4B19E76261F9325AC9A0CCE27D97490DF2                         |
+| SHA-256   | 3C7E2101B6FC8D63FA5E6341629EEF4A5D8F69C99A8826A90BC5417C5BB48BF1 |
 
 ### Spain Rev 2 (Secret of Evermore (S) (Rev 2).smc) (3145728 bytes)
 
-* Source: [No-Intro DAT (libretro-database)](https://github.com/libretro/libretro-database/blob/master/metadat/no-intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.dat)
+* [no-intro](https://datomatic.no-intro.org/index.php?page=show_record&s=49&n=3786)
 
-| Algorithm |                                          |
-| --------- | ---------------------------------------- |
-| CRC       | CA5935D0                                 |
-| MD5       | 4051ABAB6CA98F5047D5B1A149E62FF6         |
-| SHA-1     | C29FE997740BD9B54A07FBA7B2B5442A49245AAC |
+| Algorithm |                                                                  |
+| --------- | ---------------------------------------------------------------- |
+| CRC       | CA5935D0                                                         |
+| MD5       | 4051ABAB6CA98F5047D5B1A149E62FF6                                 |
+| SHA-1     | C29FE997740BD9B54A07FBA7B2B5442A49245AAC                         |
+| SHA-256   | 72EE4D0DB3DDC8DA2DBD4AFE6B24B41902451771AA798401E201F8E8DD6B3FBB |
 
 ### USA (Secret of Evermore (U) [!].smc) (3145728 bytes)
 
