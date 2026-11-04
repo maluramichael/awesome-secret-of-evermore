@@ -90,7 +90,6 @@
 - [Datacrystal](https://datacrystal.romhacking.net/wiki/Secret_of_Evermore)
 - [Retro Achievments](https://retroachievements.org/game/821)
 - [Superfamicom](https://superfamicom.org/info/secret-of-evermore)
-- [Evermore Format Exploration Project](https://evermore.azurewebsites.net/)
 - Wikipedia: [English](https://en.wikipedia.org/wiki/Secret_of_Evermore), [German](https://de.wikipedia.org/wiki/Secret_of_Evermore), [French](https://fr.wikipedia.org/wiki/Secret_of_Evermore), [Japanese](https://ja.wikipedia.org/wiki/シークレット・オブ・エバーモア)
 - [MobyGames](https://www.mobygames.com/game/9981/secret-of-evermore/) - Credits, releases and cover art
 - [StrategyWiki](https://strategywiki.org/wiki/Secret_of_Evermore) - Walkthrough, items, alchemy and bestiary
